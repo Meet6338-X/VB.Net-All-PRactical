@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\bin\Debug\net8.0\9day.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\bin\Debug\net8.0\9day.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\bin\Debug\net8.0\9day.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\bin\Debug\net8.0\9day.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\bin\Debug\net8.0\9day.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\refint\9day.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\9day.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\9day\9day\obj\Debug\net8.0\ref\9day.dll

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\bin\Debug\net8.0-windows\14redgreenyellow.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\bin\Debug\net8.0-windows\14redgreenyellow.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\bin\Debug\net8.0-windows\14redgreenyellow.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\bin\Debug\net8.0-windows\14redgreenyellow.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\bin\Debug\net8.0-windows\14redgreenyellow.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\_14redgreenyellow.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\refint\14redgreenyellow.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\14redgreenyellow.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\14redgreenyellow\14redgreenyellow\obj\Debug\net8.0-windows\ref\14redgreenyellow.dll

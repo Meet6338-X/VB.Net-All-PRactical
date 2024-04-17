@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\bin\Debug\net8.0-windows\3DivMul.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\bin\Debug\net8.0-windows\3DivMul.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\bin\Debug\net8.0-windows\3DivMul.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\bin\Debug\net8.0-windows\3DivMul.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\bin\Debug\net8.0-windows\3DivMul.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\_3DivMul.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\refint\3DivMul.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\3DivMul.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\3DivMul\3DivMul\obj\Debug\net8.0-windows\ref\3DivMul.dll

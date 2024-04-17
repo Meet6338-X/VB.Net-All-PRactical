@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\bin\Debug\net8.0-windows\4Welcome.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\bin\Debug\net8.0-windows\4Welcome.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\bin\Debug\net8.0-windows\4Welcome.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\bin\Debug\net8.0-windows\4Welcome.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\bin\Debug\net8.0-windows\4Welcome.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\_4Welcome.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\refint\4Welcome.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\4Welcome.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\4Welcome\4Welcome\obj\Debug\net8.0-windows\ref\4Welcome.dll

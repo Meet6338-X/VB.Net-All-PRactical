@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\bin\Debug\net8.0-windows\15Ligthup.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\bin\Debug\net8.0-windows\15Ligthup.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\bin\Debug\net8.0-windows\15Ligthup.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\bin\Debug\net8.0-windows\15Ligthup.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\bin\Debug\net8.0-windows\15Ligthup.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\_15Ligthup.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\refint\15Ligthup.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\15Ligthup.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\15Ligthup\15Ligthup\obj\Debug\net8.0-windows\ref\15Ligthup.dll

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\bin\Debug\net8.0-windows\17Listbox.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\bin\Debug\net8.0-windows\17Listbox.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\bin\Debug\net8.0-windows\17Listbox.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\bin\Debug\net8.0-windows\17Listbox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\bin\Debug\net8.0-windows\17Listbox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\_17Listbox.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\refint\17Listbox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\17Listbox.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\17Listbox\17Listbox\obj\Debug\net8.0-windows\ref\17Listbox.dll

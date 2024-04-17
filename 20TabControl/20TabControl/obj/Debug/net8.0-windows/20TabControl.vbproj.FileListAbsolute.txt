@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\bin\Debug\net8.0-windows\20TabControl.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\bin\Debug\net8.0-windows\20TabControl.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\bin\Debug\net8.0-windows\20TabControl.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\bin\Debug\net8.0-windows\20TabControl.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\bin\Debug\net8.0-windows\20TabControl.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\_20TabControl.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\refint\20TabControl.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\20TabControl.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\20TabControl\20TabControl\obj\Debug\net8.0-windows\ref\20TabControl.dll

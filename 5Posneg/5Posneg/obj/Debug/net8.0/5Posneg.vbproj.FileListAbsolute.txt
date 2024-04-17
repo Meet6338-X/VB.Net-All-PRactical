@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\bin\Debug\net8.0\5Posneg.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\bin\Debug\net8.0\5Posneg.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\bin\Debug\net8.0\5Posneg.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\bin\Debug\net8.0\5Posneg.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\bin\Debug\net8.0\5Posneg.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\refint\5Posneg.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\5Posneg.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\5Posneg\5Posneg\obj\Debug\net8.0\ref\5Posneg.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\bin\Debug\net8.0\6GreatNum.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\bin\Debug\net8.0\6GreatNum.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\bin\Debug\net8.0\6GreatNum.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\bin\Debug\net8.0\6GreatNum.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\bin\Debug\net8.0\6GreatNum.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\refint\6GreatNum.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\6GreatNum.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\6GreatNum\6GreatNum\obj\Debug\net8.0\ref\6GreatNum.dll

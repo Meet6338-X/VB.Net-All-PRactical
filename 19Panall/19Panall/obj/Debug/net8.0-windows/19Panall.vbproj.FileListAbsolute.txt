@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\bin\Debug\net8.0-windows\19Panall.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\bin\Debug\net8.0-windows\19Panall.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\bin\Debug\net8.0-windows\19Panall.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\bin\Debug\net8.0-windows\19Panall.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\bin\Debug\net8.0-windows\19Panall.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\_19Panall.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\refint\19Panall.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\19Panall.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\19Panall\19Panall\obj\Debug\net8.0-windows\ref\19Panall.dll

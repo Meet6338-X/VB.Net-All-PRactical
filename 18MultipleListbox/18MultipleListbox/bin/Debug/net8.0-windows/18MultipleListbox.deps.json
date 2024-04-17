@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "18MultipleListbox/1.0.0": {
+        "runtime": {
+          "18MultipleListbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18MultipleListbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

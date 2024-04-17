@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\bin\Debug\net8.0-windows\1MessageBox.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\bin\Debug\net8.0-windows\1MessageBox.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\bin\Debug\net8.0-windows\1MessageBox.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\bin\Debug\net8.0-windows\1MessageBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\bin\Debug\net8.0-windows\1MessageBox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\_1MessageBox.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\refint\1MessageBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\1MessageBox.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\1MessageBox\1MessageBox\obj\Debug\net8.0-windows\ref\1MessageBox.dll

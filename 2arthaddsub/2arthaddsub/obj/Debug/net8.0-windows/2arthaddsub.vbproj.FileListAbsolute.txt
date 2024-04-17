@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\bin\Debug\net8.0-windows\2arthaddsub.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\bin\Debug\net8.0-windows\2arthaddsub.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\bin\Debug\net8.0-windows\2arthaddsub.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\bin\Debug\net8.0-windows\2arthaddsub.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\bin\Debug\net8.0-windows\2arthaddsub.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\_2arthaddsub.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\refint\2arthaddsub.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\2arthaddsub.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\2arthaddsub\2arthaddsub\obj\Debug\net8.0-windows\ref\2arthaddsub.dll

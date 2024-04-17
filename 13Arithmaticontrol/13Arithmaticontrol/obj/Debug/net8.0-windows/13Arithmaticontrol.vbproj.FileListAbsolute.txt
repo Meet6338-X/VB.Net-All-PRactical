@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\bin\Debug\net8.0-windows\13Arithmaticontrol.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\bin\Debug\net8.0-windows\13Arithmaticontrol.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\bin\Debug\net8.0-windows\13Arithmaticontrol.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\bin\Debug\net8.0-windows\13Arithmaticontrol.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\bin\Debug\net8.0-windows\13Arithmaticontrol.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\_13Arithmaticontrol.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\refint\13Arithmaticontrol.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\13Arithmaticontrol.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\13Arithmaticontrol\13Arithmaticontrol\obj\Debug\net8.0-windows\ref\13Arithmaticontrol.dll

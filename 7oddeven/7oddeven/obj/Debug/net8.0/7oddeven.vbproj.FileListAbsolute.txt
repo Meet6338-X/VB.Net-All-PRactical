@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\bin\Debug\net8.0\7oddeven.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\bin\Debug\net8.0\7oddeven.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\bin\Debug\net8.0\7oddeven.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\bin\Debug\net8.0\7oddeven.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\bin\Debug\net8.0\7oddeven.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\refint\7oddeven.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\7oddeven.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\7oddeven\7oddeven\obj\Debug\net8.0\ref\7oddeven.dll

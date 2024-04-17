@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\bin\Debug\net8.0\8passfail.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\bin\Debug\net8.0\8passfail.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\bin\Debug\net8.0\8passfail.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\bin\Debug\net8.0\8passfail.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\bin\Debug\net8.0\8passfail.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\refint\8passfail.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\8passfail.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\8passfail\8passfail\obj\Debug\net8.0\ref\8passfail.dll

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\bin\Debug\net8.0-windows\16CheckBoxRadioBox.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\bin\Debug\net8.0-windows\16CheckBoxRadioBox.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\bin\Debug\net8.0-windows\16CheckBoxRadioBox.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\bin\Debug\net8.0-windows\16CheckBoxRadioBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\bin\Debug\net8.0-windows\16CheckBoxRadioBox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\_16CheckBoxRadioBox.Form1.resources
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\refint\16CheckBoxRadioBox.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\16CheckBoxRadioBox.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\16CheckBoxRadioBox\16CheckBoxRadioBox\obj\Debug\net8.0-windows\ref\16CheckBoxRadioBox.dll

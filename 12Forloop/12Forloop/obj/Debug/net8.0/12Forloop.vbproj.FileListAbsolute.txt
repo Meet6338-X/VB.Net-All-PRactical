@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\bin\Debug\net8.0\12Forloop.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\bin\Debug\net8.0\12Forloop.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\bin\Debug\net8.0\12Forloop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\bin\Debug\net8.0\12Forloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\bin\Debug\net8.0\12Forloop.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\refint\12Forloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\12Forloop.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\12Forloop\12Forloop\obj\Debug\net8.0\ref\12Forloop.dll

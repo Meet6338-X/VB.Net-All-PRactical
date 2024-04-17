@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\bin\Debug\net8.0\11arthmatic.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\bin\Debug\net8.0\11arthmatic.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\bin\Debug\net8.0\11arthmatic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\bin\Debug\net8.0\11arthmatic.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\bin\Debug\net8.0\11arthmatic.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\refint\11arthmatic.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\11arthmatic.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\11arthmatic\11arthmatic\obj\Debug\net8.0\ref\11arthmatic.dll

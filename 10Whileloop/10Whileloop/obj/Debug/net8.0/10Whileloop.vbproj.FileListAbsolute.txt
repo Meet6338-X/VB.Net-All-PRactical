@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\bin\Debug\net8.0\10Whileloop.exe
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\bin\Debug\net8.0\10Whileloop.deps.json
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\bin\Debug\net8.0\10Whileloop.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\bin\Debug\net8.0\10Whileloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\bin\Debug\net8.0\10Whileloop.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\refint\10Whileloop.dll
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.pdb
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\10Whileloop.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FINAL EXP\10Whileloop\10Whileloop\obj\Debug\net8.0\ref\10Whileloop.dll
